@@ -1,0 +1,67 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Lucas Silva",
+      "cpf": "973.396.560-06",
+      "telefone": "119555-1234",
+      "email": "cliente1@example.com",
+      "ativo": true,
+      "produtos": []
+    },
+    {
+      "id": 2,
+      "nome": "Diego Silva",
+      "cpf": "221.938.920-08",
+      "telefone": "119555-5678",
+      "email": "cliente2@example.com",
+      "ativo": false,
+      "produtos": []
+    },
+    {
+      "id": 3,
+      "nome": "Kevin Silva",
+      "cpf": "947.483.490-34",
+      "telefone": "555-5678",
+      "email": "cliente3@example.com",
+      "ativo": false,
+      "produtos": []
+    },
+    {
+      "id": 4,
+      "nome": "Kleber Silva",
+      "cpf": "629.910.570-41",
+      "telefone": "119555-5678",
+      "email": "cliente4@example.com",
+      "ativo": false,
+      "produtos": []
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Iphone XR 64GB - Azul",
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "nome": "Biscoito Integral Belvita - 225g",
+      "ativo": false
+    },
+    {
+      "id": 3,
+      "nome": "Garrafa de água Crystal - 1,5L",
+      "ativo": true
+    },
+    {
+      "id": 4,
+      "nome": "Biscoito Salgado Cream Cracker Adria Folhata - 170g",
+      "ativo": false
+    },
+    {
+      "id": 5,
+      "nome": "Extrato de própolis APISVIDA - 30ml",
+      "ativo": false
+    }
+  ]
+}
