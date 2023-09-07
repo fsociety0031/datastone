@@ -19,21 +19,6 @@ As principais decisões de design incluem:
 
 A estrutura do projeto foi organizada da seguinte forma:
 
-src/
-|-- App.vue
-|-- main.js
-|-- store.js
-|-- views/
-| |-- CadastroCliente.vue
-| |-- CadastroProduto.vue
-| |-- AssociarProduto.vue
-| |-- ListagemClientes.vue
-| |-- ListagemProdutos.vue
-|-- router
-|  |-- index.js
-|-- mock
-|  |-- data.json
-
 - `mock/`: Contém o arquivo JSON de mock para exemplo.
 - `views/`: Contém as telas principais do aplicativo.
 - `store.js`: Arquivo de configuração do Vuex para o gerenciamento de estado.
