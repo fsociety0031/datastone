@@ -33,7 +33,7 @@ Para rodar o projeto, siga estas etapas:
 1. Clone este repositório para sua máquina local.
 2. Certifique-se de que você tem o Node.js instalado.
 3. No diretório raiz do projeto, execute o seguinte comando para instalar as dependências: yarn ou npm install
-4. Após a instalação, inicie o servidor de desenvolvimento com o seguinte comando:
+4. Após a instalação, inicie o servidor de desenvolvimento com o seguinte comando: yarn dev ou npm run dev
 5. O aplicativo estará disponível em `http://localhost:5173`. Acesse este URL em seu navegador para usar o aplicativo.
 
 ## Observações
